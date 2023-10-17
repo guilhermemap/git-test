@@ -1,5 +1,4 @@
 this
 is the
-ONE
 first file
 this is fine
