@@ -1,5 +1,4 @@
 this
 is the
-ERROR
 first file
 this is fine
