@@ -1,1 +1,3 @@
 this is after first rebase commit, but in another folder
+
+and this is after second commit from the first folder, but doing pull and not rebase
