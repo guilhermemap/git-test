@@ -1,4 +1,5 @@
 teste 1
 PRIMEIRA
 rebase first commit
+segundo commit
 sem erro
